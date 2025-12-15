@@ -67,4 +67,7 @@ MySQL | DynamoDB
 
 ---
 
+![Snake animation](https://github.com/sriramch163/sriramch163/blob/output/github-contribution-grid-snake.svg)
+
+
 ### ✨ “Code. Automate. Deploy. Repeat.”
