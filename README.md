@@ -109,13 +109,8 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten By A Snake!
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg"
-    alt="github contribution snake animation (dark mode)"
-  />
+  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
