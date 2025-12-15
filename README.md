@@ -7,7 +7,7 @@
 
 ### 🚀 DevOps & Cloud Engineer | AWS | CI/CD | Automation | Python
 
-![Profile Views](https://komarev.com/ghpvc/?username=sriramch163&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=sriramch163&style=flat-square&color=blue)
 ![Open to Work](https://img.shields.io/badge/Open%20To%20Work-Yes-success)
 ![Focus](https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud-blue)
 
@@ -54,7 +54,8 @@ MySQL | DynamoDB
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramch163&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=sriramch163&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sriramch163&theme=dark&hide_border=true)
+
 
 ---
 
