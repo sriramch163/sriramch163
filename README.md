@@ -110,7 +110,7 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
