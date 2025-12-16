@@ -55,9 +55,9 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 - Python, Bash, YAML  
 - Git, GitHub, Bitbucket  
 
----
 
-## 🛠️ Tech Stack
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
@@ -80,7 +80,6 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 
 
----
 
 ## 📈 Git Contribution Work
 <p align="center">
