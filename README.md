@@ -68,22 +68,16 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
-## 📂 My Repositories
+## 📌 Pinned Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriramch163&repo=sriramch163&theme=tokyonight&hide_border=true" />
-</p>
-
-<details>
-<summary>📋 View All Repositories</summary>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sriramch163&repo=sriramch163&theme=tokyonight&hide_border=true)](https://github.com/sriramch163/sriramch163)
-
-<!-- Add more repository cards as you create them -->
-<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sriramch163&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/sriramch163/REPO_NAME) -->
-
-</details>
+| Project Name | Tech Stack | Description | Repository |
+|-------------|------------|-------------|------------|
+| **100-Days-Of-Python-BootCamp-Udemy** | Python | Daily Python learning and hands-on projects | [View Repo](https://github.com/sriramch163/100-Days-Of-Python-BootCamp-Udemy) |
+| **Android-Malware-Detection-ML** | ML, Python, Jupyter | Machine learning model for Android malware detection | [View Repo](https://github.com/sriramch163/Android-Malware-Detection-ML) |
+| **vprofile-project** | CSS, Web | Web application project with frontend focus | [View Repo](https://github.com/sriramch163/vprofile-project) |
+| **wisecow** | Python | Python-based application project | [View Repo](https://github.com/sriramch163/wisecow) |
+| **AppAvatar** | JavaScript | Application avatar generation tool | [View Repo](https://github.com/sriramch163/AppAvatar) |
+| **Task-Flow-Hub** | HTML | Task management and workflow hub | [View Repo](https://github.com/sriramch163/Task-Flow-Hub) |
 
 ---
 
