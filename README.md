@@ -65,14 +65,14 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/github-actions-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />
 </p>
 
