@@ -57,31 +57,15 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<div style="overflow:hidden; white-space:nowrap; width:100%; background:#0d1117; padding:20px 0; border-radius:12px;">
-  <div style="
-    display:inline-block;
-    animation: scroll 25s linear infinite;
-  ">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,bash,linux,git,github,gitlab,ansible&perline=6&theme=dark" />
+</p>
 
-    <!-- ICON SET (duplicate twice for smooth loop) -->
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,linux,git,github,gitlab,ansible,grafana,prometheus" height="50"/>
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,linux,git,github,gitlab,ansible,grafana,prometheus" height="50"/>
-
-  </div>
-</div>
-
-<style>
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=22C55E&center=true&vCenter=true&width=900&height=60&lines=AWS+☁️+Docker+🐳+Kubernetes+⚙️+Terraform+🏗️;Jenkins+🔧+Python+🐍+Linux+🐧+Git+📚;DevOps+Engineer+⚡+Infrastructure+as+Code+🚀" />
+</p>
 
 
 ---
