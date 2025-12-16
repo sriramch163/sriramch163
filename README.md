@@ -57,14 +57,32 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,bash,linux,git,github,gitlab,ansible,grafana,prometheus&perline=7&theme=dark" />
-</p>
+<h2>🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=22C55E&center=true&vCenter=true&width=800&height=50&lines=AWS+%E2%98%81%EF%B8%8F+Docker+%F0%9F%90%B3+Kubernetes+%E2%9A%99%EF%B8%8F+Terraform;Jenkins+%F0%9F%94%A7+Python+%F0%9F%90%8D+Linux+%F0%9F%90%A7+Git;CI%2FCD+Automation+%E2%9A%A1+Infrastructure+as+Code" />
-</p>
+<div style="overflow:hidden; white-space:nowrap; width:100%; background:#0d1117; padding:20px 0; border-radius:12px;">
+  <div style="
+    display:inline-block;
+    animation: scroll 25s linear infinite;
+  ">
+
+    <!-- ICON SET (duplicate twice for smooth loop) -->
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,linux,git,github,gitlab,ansible,grafana,prometheus" height="50"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,linux,git,github,gitlab,ansible,grafana,prometheus" height="50"/>
+
+  </div>
+</div>
+
+<style>
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+</style>
+
 
 ---
 
