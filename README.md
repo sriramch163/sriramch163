@@ -60,16 +60,20 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
