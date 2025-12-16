@@ -57,6 +57,17 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,bash,linux,git,github,gitlab,ansible,grafana,prometheus&perline=7&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=22C55E&center=true&vCenter=true&width=800&height=50&lines=AWS+%E2%98%81%EF%B8%8F+Docker+%F0%9F%90%B3+Kubernetes+%E2%9A%99%EF%B8%8F+Terraform;Jenkins+%F0%9F%94%A7+Python+%F0%9F%90%8D+Linux+%F0%9F%90%A7+Git;CI%2FCD+Automation+%E2%9A%A1+Infrastructure+as+Code" />
+</p>
+
+---
+
 ## 📈 Git Contribution Work
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramch163&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
