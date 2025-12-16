@@ -70,9 +70,20 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ## 📂 My Repositories
 
-| Repository | Description | Technologies | Link |
-|------------|-------------|--------------|------|
-| **sriramch163** | Professional GitHub profile with automated workflows | Markdown, GitHub Actions | [View Repo](https://github.com/sriramch163/sriramch163) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriramch163&repo=sriramch163&theme=tokyonight&hide_border=true" />
+</p>
+
+<details>
+<summary>📋 View All Repositories</summary>
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sriramch163&repo=sriramch163&theme=tokyonight&hide_border=true)](https://github.com/sriramch163/sriramch163)
+
+<!-- Add more repository cards as you create them -->
+<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sriramch163&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/sriramch163/REPO_NAME) -->
+
+</details>
 
 ---
 
@@ -90,6 +101,10 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sriramch163&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sriramch163&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramch163&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 
