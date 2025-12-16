@@ -73,20 +73,6 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
-## 🏢 Internship Experience
-
-### BIST Technologies — Web Development Intern
-- Automated CI/CD workflows using **GitHub Actions & Docker**
-- Reduced manual deployment time by **60%**
-- Improved frontend performance and build automation
-
-### AICTE & Eduskills — AWS AI-ML Virtual Intern
-- Deployed ML models using **SageMaker, Lambda, EC2**
-- Built **CloudWatch monitoring dashboards**
-- Implemented IAM security and cost optimization
-
----
-
 ## 🏅 Certifications & Training
 - AWS Cloud Practitioner Essentials — AWS (2025)
 - DevOps Beginners to Advanced with Projects — Udemy (2025)
