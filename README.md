@@ -57,19 +57,22 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 
 ---
 
-## 🚀 Projects
+## 📈 Git Contribution Work
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramch163&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
+</p>
 
-### 🔹 Terraform IaC – React App Deployment (AWS)
-- Automated deployment of React application using **Terraform**
-- Configured **S3 static hosting, CloudFront CDN, IAM policies**
-- Infrastructure provisioning and teardown using IaC  
-**Tools:** Terraform, AWS S3, CloudFront, IAM
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-### 🔹 Cloud-Hosted CI Pipeline (Jenkins + SonarQube + Nexus)
-- Built end-to-end CI pipeline with **code quality gates**
-- Integrated **SonarQube, Nexus artifact repository**
-- Implemented Slack notifications for pipeline status  
-**Tools:** Jenkins, Maven, SonarQube, Nexus, Groovy
+---
+
+## 📂 My Repositories
+
+| Repository | Description | Technologies | Link |
+|------------|-------------|--------------|------|
+| **sriramch163** | Professional GitHub profile with automated workflows | Markdown, GitHub Actions | [View Repo](https://github.com/sriramch163/sriramch163) |
 
 ---
 
@@ -89,15 +92,7 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sriramch163&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramch163&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
