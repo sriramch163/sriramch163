@@ -10,7 +10,7 @@ AWS | CI/CD | Terraform | Docker | Kubernetes | Automation
 
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=80&color=00F0FF&lines=Hi+👋+I'm+Chandika+Lakshmi+Sriram;DevOps+Engineer;AWS+☁️+CI%2FCD+⚙️+Terraform+🐳+Kubernetes;Automating+Infrastructure+%26+Deployments" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=80&color=00F0FF&lines=Hi+👋+I'm+Chandika+Lakshmi+Sriram;DevOps+Engineer;AWS+CI%2FCD+Terraform+Kubernetes;Automating+Infrastructure+%26+Deployments" />
 </p>
 
 <!-- Badges -->
