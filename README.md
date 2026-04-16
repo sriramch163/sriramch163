@@ -62,20 +62,20 @@ I have worked on building **secure, automated pipelines**, deploying scalable cl
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ansible" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=maven" width="50" height="50"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
